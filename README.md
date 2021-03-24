@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# HICC_git_basic 
-
-=======
 # HICC_git_basic
 
 git은 파일들을 시간별로 쉽게 저장하고 가져오고 합칠 수있는 유용한 툴이다.
@@ -45,4 +41,3 @@ git merge ~ - merge를 받을 branch에서 merge할 branch를 입력한다.
 git branch -D ~ - ~이름의 branch를 삭제한다.
 
 git log --graph --all --decorate - 시각화된 branch 작업내용을 볼 수 있다.
->>>>>>> develop
